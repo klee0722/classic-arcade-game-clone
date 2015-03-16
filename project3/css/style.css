@@ -1,0 +1,24 @@
+
+body {
+    text-align: center;
+}
+
+.button {
+    margin: 0px auto;
+    width: 180px;
+    height: 40px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.button.start
+{
+    background-color: #00FF00;
+}
+
+.button.start:hover
+{
+    background-color: #00CD00;
+}
